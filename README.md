@@ -66,7 +66,6 @@ Course for my youtube channel 2023
 
 ## Module 04 [July 2023]
 
-
 | Item              | Video | Playlist | Module |
 | :---------------- | :------: | ----: | ------:|
 
@@ -119,7 +118,8 @@ Course for my youtube channel 2023
 - Nest JS Basic Auth
 
 
-- ## Module 05 [July 2023]
+## Module 05 [July 2023]
+
 
 | Item              | Video | Playlist | Module |
 | :---------------- | :------: | ----: | ------:|
@@ -130,8 +130,7 @@ Course for my youtube channel 2023
 - Nest JS Graphql Prisma
 - Nest JS APIs
 
-
-- ## Module 06 [July 2023]
+## Module 06 [July 2023]
 
 | Item              | Video | Playlist | Module |
 | :---------------- | :------: | ----: | ------:|
@@ -141,7 +140,7 @@ Course for my youtube channel 2023
 - Nest JS Microservices AMQP
 - Nest JS Microservices KAFKA
 
-Planned Videos on these topics
+## Module 07 Planned Videos on these topics
 
 - Nest JS Microservices Setup -01
 - Nest JS DTO Validation
