@@ -74,15 +74,50 @@ Course for my youtube channel 2023
 - Nest JS  event emitter
 - Nest JS task scheduling
 - Nest JS SSE
-- Nest JS Websockets
 - Nest JS Queues 
 - Nest JS with Fastify adaptor  
 - Nest JS Integration with Redis
 - Nest JS Integration with database
-- Nest JS Integration with sendGrid
-- Nest JS Integration with Twilio
-- Nest JS Integration with rx js
-- Nest JS Integration with Websocket
+- Nest JS Integration with sendGrid [TBD]
+- Nest JS Integration with Twilio [TBD]
+- Nest JS Integration with rx js [TBD]
+- Nest JS Integration with Websocket [TBD]
+
+## Module 04.1 [Nov 2023]
+
+
+| Item              | Video | Playlist | Module |
+| :---------------- | :------: | ----: | ------:|
+
+- Nest JS path aliasing
+- Nest JS  il8n
+- Nest JS commander and teminus
+- Nest JS with twilio Integration
+- Nest JS with Firebase, Auth0
+- Nest JS Async Local Storage
+- Nest JS CQRS
+- Nest JS SWC
+- Nest JS Static Content Rendering
+
+## Module 04.2 [Nov 2023]
+
+
+| Item              | Video | Playlist | Module |
+| :---------------- | :------: | ----: | ------:|
+
+- Nest JS CORS
+- Nest JS Rate Limit
+- Nest JS CSRF protection
+- Nest JS Helmet and CSP
+- Nest JS Authentication
+- Nest JS  Authorization
+- Nest JS Cookies based Auth
+- Nest JS with session-based Auth
+- Nest JS Token Based Auth
+- Nest JS Auth Token and Refresh Token
+- Nest JS Session persist
+- Nest JS Basic Auth
+
 
 - ## Module 05 [July 2023]
 
