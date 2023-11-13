@@ -118,7 +118,7 @@ Course for my youtube channel 2023
 - Nest JS Basic Auth
 
 
-## Module 05 [July 2023]
+## Module 05 [Dec 2023]
 
 
 | Item              | Video | Playlist | Module |
@@ -130,7 +130,7 @@ Course for my youtube channel 2023
 - Nest JS Graphql Prisma
 - Nest JS APIs
 
-## Module 06 [July 2023]
+## Module 06 [Dec 2023]
 
 | Item              | Video | Playlist | Module |
 | :---------------- | :------: | ----: | ------:|
