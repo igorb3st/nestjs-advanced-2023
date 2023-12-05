@@ -2,6 +2,13 @@
 
 ![](https://i.ytimg.com/vi/YQQroQPDW38/maxresdefault.jpg)
 
+
+# Installation and setup
+
+```sh
+pnpm i
+```
+
 Course for my youtube channel 2023
 
 ## Module 01 [8th May 2023]
