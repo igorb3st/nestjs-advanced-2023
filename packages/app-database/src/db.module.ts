@@ -1,6 +1,7 @@
 import { Module } from "@nestjs/common";
 import { DbConfig } from "./db.interface";
 import { TypeOrmModule, TypeOrmModuleOptions } from "@nestjs/typeorm";
+import {} from "@nestjs/sequelize";
 import { ConfigModule } from "@dev/config";
 import { ConfigService } from "@dev/config";
 import { ConfigDatabase } from "@dev/config";
@@ -19,7 +20,7 @@ export class DBModule {
     return {
       ...connectionOptions,
       entities: dbConfig.entities,
-      synchronize: false,
+      synchronize: true,
       logging: true,
     };
   }
